@@ -12,6 +12,6 @@ These liquid-phase geometries were (more or less randomly) extracted from MD sim
 
 For each polymer, we extracted a representative trimer, tetramer, and pentamer, which allows for generating sigma-profiles based on averaging more different monomer units.
 
-Geometries of trimers of other polymers can be adopted from the Amsterdam Modeling Suite Database (https://www.scm.com/doc/COSMO-RS/COSMO-RS_Databases.html#adfcrs-polymers-2019).
+Geometries of other polymer types can be directly adopted from the Amsterdam Modeling Suite Database (https://www.scm.com/doc/COSMO-RS/COSMO-RS_Databases.html#adfcrs-polymers-2019; only trimers).
 
 Note: plga1 and plga 2 differ in both geometry and ratio of LA/GA units.
